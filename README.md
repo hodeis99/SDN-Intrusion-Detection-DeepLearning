@@ -60,7 +60,7 @@ The main objectives of this project are:
 
 ## Dataset
 
-The dataset used in this project was created by combining traffic collected from multiple SDN environments.
+The dataset used in this project was created by combining traffic collected from multiple SDN environments from Kaggle.
 
 ### Data Sources
 
@@ -118,16 +118,11 @@ Performance Evaluation
 SDN-Intrusion-Detection-DeepLearning
 │
 ├── README.md
-├── requirements.txt
 │
-├── data
-│   └── dataset_information.txt
-│
-└── notebooks
-    ├── info.ipynb
-    ├── lstm.ipynb
-    ├── cnn.ipynb
-    └── lstm+cnn.ipynb
+├── info.py
+├── lstm.py
+├── cnn.py
+└── lstm+cnn.py
 ```
 
 ---
