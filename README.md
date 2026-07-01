@@ -256,7 +256,7 @@ If you find this repository useful for your research or academic work, please co
 
 ```bibtex
 @misc{SDN_IDS_DeepLearning,
-  author = {Hodeis},
+  author = {Hodais Torkamand},
   title = {Deep Learning-Based Intrusion Detection for Software Defined Networks},
   year = {2026},
   publisher = {GitHub},
